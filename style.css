@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+    background-color: darkgrey;
+    text-align: center;
+}
+h1 {
+    color: white;
+}
+.container {
+    background-color: white;
+    margin: auto;
+    height: 400px;
+    width: 600px;
+    border-radius: 20px;
+    
+}
+
+#hora {
+    padding: 17px;
+    font: 20pt Arial;
+}
+
+#imagem {
+    width: 300px;
+    height: 300px;
+    border-radius: 500px;
+}
